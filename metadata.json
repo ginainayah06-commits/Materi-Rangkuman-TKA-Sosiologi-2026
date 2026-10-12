@@ -1,0 +1,7 @@
+{
+  "name": "Rangkuman Sosiologi Interaktif",
+  "description": "Website belajar interaktif bergambar Rangkuman Sosiologi 13 Bab TKA SMA Islam Terpadu Insan Sejahtera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
